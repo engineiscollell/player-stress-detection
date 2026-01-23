@@ -7,7 +7,7 @@ Using **decision tree classifiers**, we model whether a player shows signs of st
 
 The motivation is practical: prolonged gameplay can negatively impact mental health, and regulations on digital wellbeing increasingly require **early detection and preventive intervention**. An interpretable model such as a decision tree allows actionable decisions while remaining auditable.
 
-![Project pipeline](assets/project_pipeline.png)
+<img src="assets/project_pipeline.png" alt="Project pipeline" width="500">
 
 ---
 
